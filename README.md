@@ -1,2 +1,3 @@
-# fast-task-manager-99h3
-Automated issue comment bot repository
+# Fast Task Manager 99H3
+
+Automated issue comment bot repository.
